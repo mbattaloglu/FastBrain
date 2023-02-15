@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c43e91d5c7af3584cbb00ab7b251506c, type: 3}
+  m_Name: IMGQ1
+  m_EditorClassIdentifier: 
+  questionText: Which one is Italy Flag ?
+  images:
+  - {fileID: 21300000, guid: b195b9646e0755a428764019fe2dbe83, type: 3}
+  - {fileID: 21300000, guid: 53f2aa3164f0f4243b8b87ebf760dac5, type: 3}
+  - {fileID: 21300000, guid: 6e3faee38f0b37a49b6ccfaad79a5079, type: 3}
+  - {fileID: 21300000, guid: ca2613c4e1b9ed44ca11c023969c2048, type: 3}
+  answerIndex: 3
+  time: 0
